@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Simplyauf
+- 👋 Hi, I’m AZEEZ UMARFARUQ
 - 👀 I’m interested in fellow programmer friends
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on ...
