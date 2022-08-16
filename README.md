@@ -3,7 +3,7 @@
 - 👀 I’m interested in fellow programmer friends
 - 🌱 I’m currently learning JavaScript...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me azeezumarfaruk@gmail.com(gmail)    +2348149660220(phone no)
+- 📫 How to reach me azeezumarfaruk@gmail.com(gmail)    +2348149660220(phone/whatsapp number) [twitter](https://mobile.twitter.com/UmarFarukA13?t=jaFtCs5cj8eNXIRho0torg&s=09)
 
 <!---
 Simplyauf/Simplyauf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
