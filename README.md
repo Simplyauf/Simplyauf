@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simplyauf" alt="simplyauf" /></a> </p>
 
-- 🔭 I’m currently working on an E-commerce site : [E-Furniture App](https://github.com/Simplyauf/auFUR)
+
 
 - 🌱 I’m currently learning **REACT NATIVE**
 
