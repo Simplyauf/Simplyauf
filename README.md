@@ -2,7 +2,7 @@
 
 **Full-stack engineer (frontend-focused)** building fintech products and the cloud infrastructure behind them.
 
-- 💼 Fullstack Engineer at [Nonceblox](https://nonceblox.com), working on a multi-currency payments platform serving 100+ countries
+- 💼 Working on a multi-currency, cross-border payments platform serving 100+ countries, with KYC/AML compliance built in
 - 🎨 4+ years shipping fast, polished frontends with React, Next.js and TypeScript
 - 💳 Fintech & payments: Stripe, Plaid, QuickBooks, Fireblocks, Web3
 - ☁️ Cloud & DevOps: AWS (ECS, S3, CloudFront, Amplify), GitHub Actions, CI/CD
