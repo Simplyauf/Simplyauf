@@ -1,5 +1,7 @@
 # Hi, I'm Abdulazeez Umarfaruq 👋
 
+#   OLD GITHUB ACCOUNT SUSPENDED OF 4 YEARS HISTORIES
+
 **Full-stack engineer (frontend-focused)** building fintech products and the cloud infrastructure behind them.
 
 - 💼 Working on a multi-currency, cross-border payments platform serving 100+ countries, with KYC/AML compliance built in
